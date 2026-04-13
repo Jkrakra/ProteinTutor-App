@@ -1,0 +1,9 @@
+streamlit
+torch
+joblib
+ollama
+numpy
+pandas
+biopython
+txtai
+transformers
